@@ -1,7 +1,3 @@
-<!-- GitAds-Verify: L8EFH3727NTVCHZC47C6MADPWMVAUY1K -->
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rafalw3bcraft/rwc@github)](https://gitads.dev/v1/ad-track?source=rafalw3bcraft/rwc@github)
-
 # RWC Next.js Project
 
 This is a Next.js web application project.
@@ -46,8 +42,22 @@ npm run build
 ```
 
 ## License
+```
+MIT License
 
-See [LICENSE](LICENSE) for details.
+Copyright (c) 2025 RafalW3bCraft
 
-<!--
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+```
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rafalw3bcraft/rwc@github)](https://gitads.dev/v1/ad-track?source=rafalw3bcraft/rwc@github)
 
